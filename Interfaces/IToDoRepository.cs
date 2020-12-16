@@ -1,6 +1,6 @@
-using todo.Entities;
+using TodoAPI.Entities;
 
-namespace todo.Interfaces
+namespace TodoAPI.Interfaces
 {
     public interface IToDoRepository : IRepositoryBase<ToDo>
     {

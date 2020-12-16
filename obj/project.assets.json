@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\todo\\todo.csproj",
-      "projectName": "todo",
-      "projectPath": "D:\\todo\\todo.csproj",
+      "projectUniqueName": "D:\\todo-api\\TodoAPI.csproj",
+      "projectName": "TodoAPI",
+      "projectPath": "D:\\todo-api\\TodoAPI.csproj",
       "packagesPath": "C:\\Users\\hatrari\\.nuget\\packages\\",
-      "outputPath": "D:\\todo\\obj\\",
+      "outputPath": "D:\\todo-api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

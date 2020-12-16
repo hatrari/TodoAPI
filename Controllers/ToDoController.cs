@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
-using todo.Interfaces;
-using todo.Entities;
+using TodoAPI.Interfaces;
+using TodoAPI.Entities;
 
-namespace todo.Controllers
+namespace TodoAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]

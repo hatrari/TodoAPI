@@ -2,7 +2,7 @@ using System;
 using System.Linq;
 using System.Linq.Expressions;
 
-namespace todo.Interfaces
+namespace TodoAPI.Interfaces
 {
     public interface IRepositoryBase<T>
     {

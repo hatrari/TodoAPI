@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace todo.Entities
+namespace TodoAPI.Entities
 {
     public class RepositoryContext: DbContext
     {

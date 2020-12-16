@@ -1,11 +1,11 @@
-using todo.Entities;
+using TodoAPI.Entities;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Linq;
 using System.Linq.Expressions;
-using todo.Interfaces;
+using TodoAPI.Interfaces;
 
-namespace todo.Repositories
+namespace TodoAPI.Repositories
 {
     public abstract class RepositoryBase<T> : IRepositoryBase<T> where T : class
     {

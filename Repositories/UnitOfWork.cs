@@ -1,7 +1,7 @@
-using todo.Interfaces;
-using todo.Entities;
+using TodoAPI.Interfaces;
+using TodoAPI.Entities;
 
-namespace todo.Repositories
+namespace TodoAPI.Repositories
 {
     public class UnitOfWork : IUnitOfWork
     {

@@ -4,11 +4,11 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using todo.Entities;
-using todo.Interfaces;
-using todo.Repositories;
+using TodoAPI.Entities;
+using TodoAPI.Interfaces;
+using TodoAPI.Repositories;
 
-namespace todo
+namespace TodoAPI
 {
     public class Startup
     {

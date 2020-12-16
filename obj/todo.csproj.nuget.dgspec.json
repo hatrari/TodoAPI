@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\todo\\todo.csproj": {}
+    "D:\\todo-api\\todo.csproj": {}
   },
   "projects": {
-    "D:\\todo\\todo.csproj": {
+    "D:\\todo-api\\todo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\todo\\todo.csproj",
+        "projectUniqueName": "D:\\todo-api\\todo.csproj",
         "projectName": "todo",
-        "projectPath": "D:\\todo\\todo.csproj",
+        "projectPath": "D:\\todo-api\\todo.csproj",
         "packagesPath": "C:\\Users\\hatrari\\.nuget\\packages\\",
-        "outputPath": "D:\\todo\\obj\\",
+        "outputPath": "D:\\todo-api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

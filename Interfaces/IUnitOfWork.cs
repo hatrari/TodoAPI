@@ -1,4 +1,4 @@
-namespace todo.Interfaces
+namespace TodoAPI.Interfaces
 {
     public interface IUnitOfWork
     {
